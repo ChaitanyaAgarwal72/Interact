@@ -1,0 +1,9 @@
+<form action="/travel/create" method="POST">
+  <input type="text" name="name" placeholder="Your Name" required />
+  <input type="text" name="destination" placeholder="Place to Visit" required />
+  <input type="date" name="date" required />
+  <input type="time" name="time" required />
+  <input type="number" name="vacancy" placeholder="Vacancy" required />
+  <input type="text" name="mobile" placeholder="Mobile Number" required />
+  <button type="submit">Create Listing</button>
+</form>

@@ -1,0 +1,10 @@
+<h1>Travel Listings</h1>
+<% listings.forEach(listing => { %>
+  <div>
+    <p>Name: <%= listing.name %></p>
+    <p>Destination: <%= listing.destination %></p>
+    <p>Date: <%= listing.date %> at <%= listing.time %></p>
+    <p>Vacancy: <%= listing.vacancy %></p>
+    <p>Mobile: <%= listing.mobile %></p>
+  </div>
+<% }) %>
