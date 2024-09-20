@@ -18,12 +18,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Welcome to the Minigames Collection repository! This project is a compilation of various fun and engaging mini-games, all conveniently located in one place. Whether you're looking for a quick gaming fix or want to explore different gaming experiences, you're in the right spot.
+Interact is a collaborative platform designed to help students connect and interact with each other for project collaborations, travel planning, and more. Whether you're looking to find teammates for academic or extracurricular projects, planning a study trip, or simply meeting new people with similar interests, Interact is the perfect place to bring students together.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can find detailed instructions for each game in their respective directories. Please refer to the README files or documentation within each game's folder for information on how to play, install, or run the games.
+- Sign up as a student to start exploring the platform.
+- Browse projects or create your own to find team members.
+- Plan trips and meet other students who are interested in traveling.
 
 <!-- CONTRIBUTING -->
 ## Contributing
