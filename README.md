@@ -30,14 +30,14 @@ Interact is a collaborative platform designed to help students connect and inter
 <!-- CONTRIBUTING -->
 ## Contributing
 
-We welcome contributions from the community! If you have ideas for new games, improvements, or bug fixes, please consider contributing. Here's how you can get started:
+We welcome contributions from the community! If you have ideas, improvements, or bug fixes, please consider contributing. Here's how you can get started:
 
 1. Fork the repository.
 2. Create a new branch for your feature or fix.
 3. Make your changes and commit them.
 4. Open a pull request to submit your contributions.
 
-Let's work together to make this collection even more entertaining and enjoyable!
+Let's work together to make this project even more entertaining and enjoyable!
 
 ## License
 
